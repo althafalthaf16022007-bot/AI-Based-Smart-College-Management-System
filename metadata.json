@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Management System with AI",
+  "description": "Comprehensive full-stack college management system with student, faculty, and admin portals powered by Gemini AI for academic assistance, automated quiz generation, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
